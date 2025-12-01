@@ -31,3 +31,8 @@ image/recap*/
 *.onnx
 *.ckpt
 *.log
+
+# Explicitly include shared weights
+!weights/
+!weights/*.onnx
+!weights/*.pth
