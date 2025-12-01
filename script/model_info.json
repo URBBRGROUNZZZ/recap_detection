@@ -1,0 +1,22 @@
+{
+  "models": [
+    {
+      "model_name": "vit_large",
+      "original_path": "/Users/karl/Downloads/phonerecap/checkpoints/vit_large_20250716_064452_optimized/vit-large.pth",
+      "onnx_path": "model.onnx",
+      "input_shape": [
+        1,
+        3,
+        224,
+        224
+      ],
+      "device": "cpu",
+      "opset_version": 16,
+      "num_classes": 2,
+      "class_names": [
+        "raw",
+        "recap"
+      ]
+    }
+  ]
+}

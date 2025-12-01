@@ -1,0 +1,501 @@
+set_id,clip_a_bitcode,clip_b_bitcode,delta_attr,context,status
+set0001,0000,1000,border,pure border toggle,recorded
+set0002,0000,1000,border,pure border toggle,recorded
+set0003,0000,1000,border,pure border toggle,recorded
+set0004,0000,1000,border,pure border toggle,recorded
+set0005,0000,1000,border,pure border toggle,recorded
+set0006,0000,1000,border,pure border toggle,recorded
+set0007,0000,1000,border,pure border toggle,recorded
+set0008,0000,1000,border,pure border toggle,recorded
+set0009,0000,1000,border,pure border toggle,recorded
+set0010,0000,1000,border,pure border toggle,recorded
+set0011,0000,1000,border,pure border toggle,recorded
+set0012,0000,1000,border,pure border toggle,recorded
+set0013,0000,1000,border,pure border toggle,recorded
+set0014,0000,1000,border,pure border toggle,recorded
+set0015,0000,1000,border,pure border toggle,recorded
+set0016,0000,1000,border,pure border toggle,recorded
+set0017,0000,1000,border,pure border toggle,planned
+set0018,0000,1000,border,pure border toggle,planned
+set0019,0000,1000,border,pure border toggle,planned
+set0020,0000,1000,border,pure border toggle,planned
+set0021,0000,1000,border,pure border toggle,planned
+set0022,0000,1000,border,pure border toggle,planned
+set0023,0000,1000,border,pure border toggle,planned
+set0024,0000,1000,border,pure border toggle,planned
+set0025,0000,1000,border,pure border toggle,planned
+set0026,0000,1000,border,pure border toggle,planned
+set0027,0000,1000,border,pure border toggle,planned
+set0028,0000,1000,border,pure border toggle,planned
+set0029,0000,1000,border,pure border toggle,planned
+set0030,0000,1000,border,pure border toggle,planned
+set0031,0000,1000,border,pure border toggle,planned
+set0032,0000,1000,border,pure border toggle,planned
+set0033,0000,1000,border,pure border toggle,planned
+set0034,0000,1000,border,pure border toggle,planned
+set0035,0000,1000,border,pure border toggle,planned
+set0036,0000,1000,border,pure border toggle,planned
+set0037,0000,1000,border,pure border toggle,planned
+set0038,0000,1000,border,pure border toggle,planned
+set0039,0000,1000,border,pure border toggle,planned
+set0040,0000,1000,border,pure border toggle,planned
+set0041,0000,1000,border,pure border toggle,planned
+set0042,0000,1000,border,pure border toggle,planned
+set0043,0000,1000,border,pure border toggle,planned
+set0044,0000,1000,border,pure border toggle,planned
+set0045,0000,1000,border,pure border toggle,planned
+set0046,0000,1000,border,pure border toggle,planned
+set0047,0000,1000,border,pure border toggle,planned
+set0048,0000,1000,border,pure border toggle,planned
+set0049,0000,1000,border,pure border toggle,planned
+set0050,0000,1000,border,pure border toggle,planned
+set0051,0000,1000,border,pure border toggle,planned
+set0052,0000,1000,border,pure border toggle,planned
+set0053,0000,1000,border,pure border toggle,planned
+set0054,0000,1000,border,pure border toggle,planned
+set0055,0000,1000,border,pure border toggle,planned
+set0056,0000,1000,border,pure border toggle,planned
+set0057,0000,1000,border,pure border toggle,planned
+set0058,0000,1000,border,pure border toggle,planned
+set0059,0000,1000,border,pure border toggle,planned
+set0060,0000,1000,border,pure border toggle,planned
+set0061,0000,1000,border,pure border toggle,planned
+set0062,0000,1000,border,pure border toggle,planned
+set0063,0000,1000,border,pure border toggle,planned
+set0064,0000,1000,border,pure border toggle,planned
+set0065,0000,1000,border,pure border toggle,planned
+set0066,0000,1000,border,pure border toggle,planned
+set0067,0000,1000,border,pure border toggle,planned
+set0068,0000,1000,border,pure border toggle,planned
+set0069,0000,1000,border,pure border toggle,planned
+set0070,0000,1000,border,pure border toggle,planned
+set0071,0000,1000,border,pure border toggle,planned
+set0072,0000,1000,border,pure border toggle,planned
+set0073,0000,1000,border,pure border toggle,planned
+set0074,0000,1000,border,pure border toggle,planned
+set0075,0000,1000,border,pure border toggle,planned
+set0076,0000,1000,border,pure border toggle,planned
+set0077,0000,1000,border,pure border toggle,planned
+set0078,0000,1000,border,pure border toggle,planned
+set0079,0000,1000,border,pure border toggle,planned
+set0080,0000,1000,border,pure border toggle,planned
+set0081,0000,1000,border,pure border toggle,planned
+set0082,0000,1000,border,pure border toggle,planned
+set0083,0000,1000,border,pure border toggle,planned
+set0084,0000,1000,border,pure border toggle,planned
+set0085,0000,1000,border,pure border toggle,planned
+set0086,0000,1000,border,pure border toggle,planned
+set0087,0000,1000,border,pure border toggle,planned
+set0088,0100,1100,border,border w/ glare background,planned
+set0089,0100,1100,border,border w/ glare background,planned
+set0090,0100,1100,border,border w/ glare background,planned
+set0091,0100,1100,border,border w/ glare background,planned
+set0092,0100,1100,border,border w/ glare background,planned
+set0093,0100,1100,border,border w/ glare background,planned
+set0094,0100,1100,border,border w/ glare background,planned
+set0095,0100,1100,border,border w/ glare background,planned
+set0096,0100,1100,border,border w/ glare background,planned
+set0097,0100,1100,border,border w/ glare background,planned
+set0098,0100,1100,border,border w/ glare background,planned
+set0099,0100,1100,border,border w/ glare background,planned
+set0100,0100,1100,border,border w/ glare background,planned
+set0101,0100,1100,border,border w/ glare background,planned
+set0102,0100,1100,border,border w/ glare background,planned
+set0103,0100,1100,border,border w/ glare background,planned
+set0104,0100,1100,border,border w/ glare background,planned
+set0105,0100,1100,border,border w/ glare background,planned
+set0106,0100,1100,border,border w/ glare background,planned
+set0107,0100,1100,border,border w/ glare background,planned
+set0108,0100,1100,border,border w/ glare background,planned
+set0109,0100,1100,border,border w/ glare background,planned
+set0110,0100,1100,border,border w/ glare background,planned
+set0111,0100,1100,border,border w/ glare background,planned
+set0112,0100,1100,border,border w/ glare background,planned
+set0113,0100,1100,border,border w/ glare background,planned
+set0114,0100,1100,border,border w/ glare background,planned
+set0115,0100,1100,border,border w/ glare background,planned
+set0116,0100,1100,border,border w/ glare background,planned
+set0117,0100,1100,border,border w/ glare background,planned
+set0118,0100,1100,border,border w/ glare background,planned
+set0119,0100,1100,border,border w/ glare background,planned
+set0120,0100,1100,border,border w/ glare background,planned
+set0121,0100,1100,border,border w/ glare background,planned
+set0122,0100,1100,border,border w/ glare background,planned
+set0123,0100,1100,border,border w/ glare background,planned
+set0124,0100,1100,border,border w/ glare background,planned
+set0125,0100,1100,border,border w/ glare background,planned
+set0126,0100,1100,border,border w/ glare background,planned
+set0127,0100,1100,border,border w/ glare background,planned
+set0128,0100,1100,border,border w/ glare background,planned
+set0129,0100,1100,border,border w/ glare background,planned
+set0130,0100,1100,border,border w/ glare background,planned
+set0131,0010,1010,border,border w/ moire background,planned
+set0132,0010,1010,border,border w/ moire background,planned
+set0133,0010,1010,border,border w/ moire background,planned
+set0134,0010,1010,border,border w/ moire background,planned
+set0135,0010,1010,border,border w/ moire background,planned
+set0136,0010,1010,border,border w/ moire background,planned
+set0137,0010,1010,border,border w/ moire background,planned
+set0138,0010,1010,border,border w/ moire background,planned
+set0139,0010,1010,border,border w/ moire background,planned
+set0140,0010,1010,border,border w/ moire background,planned
+set0141,0010,1010,border,border w/ moire background,planned
+set0142,0010,1010,border,border w/ moire background,planned
+set0143,0010,1010,border,border w/ moire background,planned
+set0144,0010,1010,border,border w/ moire background,planned
+set0145,0010,1010,border,border w/ moire background,planned
+set0146,0010,1010,border,border w/ moire background,planned
+set0147,0010,1010,border,border w/ moire background,planned
+set0148,0010,1010,border,border w/ moire background,planned
+set0149,0010,1010,border,border w/ moire background,planned
+set0150,0010,1010,border,border w/ moire background,planned
+set0151,0010,1010,border,border w/ moire background,planned
+set0152,0010,1010,border,border w/ moire background,planned
+set0153,0010,1010,border,border w/ moire background,planned
+set0154,0010,1010,border,border w/ moire background,planned
+set0155,0010,1010,border,border w/ moire background,planned
+set0156,0010,1010,border,border w/ moire background,planned
+set0157,0010,1010,border,border w/ moire background,planned
+set0158,0010,1010,border,border w/ moire background,planned
+set0159,0010,1010,border,border w/ moire background,planned
+set0160,0010,1010,border,border w/ moire background,planned
+set0161,0010,1010,border,border w/ moire background,planned
+set0162,0010,1010,border,border w/ moire background,planned
+set0163,0010,1010,border,border w/ moire background,planned
+set0164,0010,1010,border,border w/ moire background,planned
+set0165,0010,1010,border,border w/ moire background,planned
+set0166,0010,1010,border,border w/ moire background,planned
+set0167,0010,1010,border,border w/ moire background,planned
+set0168,0010,1010,border,border w/ moire background,planned
+set0169,0010,1010,border,border w/ moire background,planned
+set0170,0010,1010,border,border w/ moire background,planned
+set0171,0010,1010,border,border w/ moire background,planned
+set0172,0010,1010,border,border w/ moire background,planned
+set0173,0010,1010,border,border w/ moire background,planned
+set0174,0010,1010,border,border w/ moire background,planned
+set0175,0001,1001,border,border w/ buttons background,planned
+set0176,0001,1001,border,border w/ buttons background,planned
+set0177,0001,1001,border,border w/ buttons background,planned
+set0178,0001,1001,border,border w/ buttons background,planned
+set0179,0001,1001,border,border w/ buttons background,planned
+set0180,0001,1001,border,border w/ buttons background,planned
+set0181,0001,1001,border,border w/ buttons background,planned
+set0182,0001,1001,border,border w/ buttons background,planned
+set0183,0001,1001,border,border w/ buttons background,planned
+set0184,0001,1001,border,border w/ buttons background,planned
+set0185,0001,1001,border,border w/ buttons background,planned
+set0186,0001,1001,border,border w/ buttons background,planned
+set0187,0001,1001,border,border w/ buttons background,planned
+set0188,0001,1001,border,border w/ buttons background,planned
+set0189,0001,1001,border,border w/ buttons background,planned
+set0190,0001,1001,border,border w/ buttons background,planned
+set0191,0001,1001,border,border w/ buttons background,planned
+set0192,0001,1001,border,border w/ buttons background,planned
+set0193,0001,1001,border,border w/ buttons background,planned
+set0194,0001,1001,border,border w/ buttons background,planned
+set0195,0001,1001,border,border w/ buttons background,planned
+set0196,0001,1001,border,border w/ buttons background,planned
+set0197,0001,1001,border,border w/ buttons background,planned
+set0198,0001,1001,border,border w/ buttons background,planned
+set0199,0001,1001,border,border w/ buttons background,planned
+set0200,0001,1001,border,border w/ buttons background,planned
+set0201,0001,1001,border,border w/ buttons background,planned
+set0202,0001,1001,border,border w/ buttons background,planned
+set0203,0001,1001,border,border w/ buttons background,planned
+set0204,0001,1001,border,border w/ buttons background,planned
+set0205,0001,1001,border,border w/ buttons background,planned
+set0206,0001,1001,border,border w/ buttons background,planned
+set0207,0001,1001,border,border w/ buttons background,planned
+set0208,0001,1001,border,border w/ buttons background,planned
+set0209,0001,1001,border,border w/ buttons background,planned
+set0210,0001,1001,border,border w/ buttons background,planned
+set0211,0001,1001,border,border w/ buttons background,planned
+set0212,0001,1001,border,border w/ buttons background,planned
+set0213,0001,1001,border,border w/ buttons background,planned
+set0214,0001,1001,border,border w/ buttons background,planned
+set0215,0001,1001,border,border w/ buttons background,planned
+set0216,0001,1001,border,border w/ buttons background,planned
+set0217,0001,1001,border,border w/ buttons background,planned
+set0218,0001,1001,border,border w/ buttons background,planned
+set0219,0111,1111,border,border w/ all attrs on,planned
+set0220,0111,1111,border,border w/ all attrs on,planned
+set0221,0111,1111,border,border w/ all attrs on,planned
+set0222,0111,1111,border,border w/ all attrs on,planned
+set0223,0111,1111,border,border w/ all attrs on,planned
+set0224,0111,1111,border,border w/ all attrs on,planned
+set0225,0111,1111,border,border w/ all attrs on,planned
+set0226,0111,1111,border,border w/ all attrs on,planned
+set0227,0111,1111,border,border w/ all attrs on,planned
+set0228,0111,1111,border,border w/ all attrs on,planned
+set0229,0111,1111,border,border w/ all attrs on,planned
+set0230,0111,1111,border,border w/ all attrs on,planned
+set0231,0111,1111,border,border w/ all attrs on,planned
+set0232,0111,1111,border,border w/ all attrs on,planned
+set0233,0111,1111,border,border w/ all attrs on,planned
+set0234,0111,1111,border,border w/ all attrs on,planned
+set0235,0111,1111,border,border w/ all attrs on,planned
+set0236,0111,1111,border,border w/ all attrs on,planned
+set0237,0111,1111,border,border w/ all attrs on,planned
+set0238,0111,1111,border,border w/ all attrs on,planned
+set0239,0111,1111,border,border w/ all attrs on,planned
+set0240,0111,1111,border,border w/ all attrs on,planned
+set0241,0111,1111,border,border w/ all attrs on,planned
+set0242,0111,1111,border,border w/ all attrs on,planned
+set0243,0111,1111,border,border w/ all attrs on,planned
+set0244,0111,1111,border,border w/ all attrs on,planned
+set0245,0111,1111,border,border w/ all attrs on,planned
+set0246,0111,1111,border,border w/ all attrs on,planned
+set0247,0111,1111,border,border w/ all attrs on,planned
+set0248,0111,1111,border,border w/ all attrs on,planned
+set0249,0111,1111,border,border w/ all attrs on,planned
+set0250,0111,1111,border,border w/ all attrs on,planned
+set0251,0111,1111,border,border w/ all attrs on,planned
+set0252,0111,1111,border,border w/ all attrs on,planned
+set0253,0111,1111,border,border w/ all attrs on,planned
+set0254,0111,1111,border,border w/ all attrs on,planned
+set0255,0011,1011,border,border w/ moire+buttons,planned
+set0256,0011,1011,border,border w/ moire+buttons,planned
+set0257,0011,1011,border,border w/ moire+buttons,planned
+set0258,0011,1011,border,border w/ moire+buttons,planned
+set0259,0011,1011,border,border w/ moire+buttons,planned
+set0260,0011,1011,border,border w/ moire+buttons,planned
+set0261,0011,1011,border,border w/ moire+buttons,planned
+set0262,0011,1011,border,border w/ moire+buttons,planned
+set0263,0011,1011,border,border w/ moire+buttons,planned
+set0264,0011,1011,border,border w/ moire+buttons,planned
+set0265,0011,1011,border,border w/ moire+buttons,planned
+set0266,0011,1011,border,border w/ moire+buttons,planned
+set0267,0011,1011,border,border w/ moire+buttons,planned
+set0268,0011,1011,border,border w/ moire+buttons,planned
+set0269,0011,1011,border,border w/ moire+buttons,planned
+set0270,0011,1011,border,border w/ moire+buttons,planned
+set0271,0011,1011,border,border w/ moire+buttons,planned
+set0272,0011,1011,border,border w/ moire+buttons,planned
+set0273,0011,1011,border,border w/ moire+buttons,planned
+set0274,0011,1011,border,border w/ moire+buttons,planned
+set0275,0011,1011,border,border w/ moire+buttons,planned
+set0276,0011,1011,border,border w/ moire+buttons,planned
+set0277,0101,1101,border,border w/ glare+buttons,planned
+set0278,0101,1101,border,border w/ glare+buttons,planned
+set0279,0101,1101,border,border w/ glare+buttons,planned
+set0280,0101,1101,border,border w/ glare+buttons,planned
+set0281,0101,1101,border,border w/ glare+buttons,planned
+set0282,0101,1101,border,border w/ glare+buttons,planned
+set0283,0101,1101,border,border w/ glare+buttons,planned
+set0284,0101,1101,border,border w/ glare+buttons,planned
+set0285,0101,1101,border,border w/ glare+buttons,planned
+set0286,0101,1101,border,border w/ glare+buttons,planned
+set0287,0101,1101,border,border w/ glare+buttons,planned
+set0288,0101,1101,border,border w/ glare+buttons,planned
+set0289,0101,1101,border,border w/ glare+buttons,planned
+set0290,0101,1101,border,border w/ glare+buttons,planned
+set0291,0101,1101,border,border w/ glare+buttons,planned
+set0292,0101,1101,border,border w/ glare+buttons,planned
+set0293,0101,1101,border,border w/ glare+buttons,planned
+set0294,0101,1101,border,border w/ glare+buttons,planned
+set0295,0101,1101,border,border w/ glare+buttons,planned
+set0296,0101,1101,border,border w/ glare+buttons,planned
+set0297,0101,1101,border,border w/ glare+buttons,planned
+set0298,0101,1101,border,border w/ glare+buttons,planned
+set0299,0110,1110,border,border w/ glare+moire,planned
+set0300,0110,1110,border,border w/ glare+moire,planned
+set0301,0110,1110,border,border w/ glare+moire,planned
+set0302,0110,1110,border,border w/ glare+moire,planned
+set0303,0110,1110,border,border w/ glare+moire,planned
+set0304,0110,1110,border,border w/ glare+moire,planned
+set0305,0110,1110,border,border w/ glare+moire,planned
+set0306,0110,1110,border,border w/ glare+moire,planned
+set0307,0110,1110,border,border w/ glare+moire,planned
+set0308,0110,1110,border,border w/ glare+moire,planned
+set0309,0110,1110,border,border w/ glare+moire,planned
+set0310,0110,1110,border,border w/ glare+moire,planned
+set0311,0110,1110,border,border w/ glare+moire,planned
+set0312,0110,1110,border,border w/ glare+moire,planned
+set0313,0110,1110,border,border w/ glare+moire,planned
+set0314,0110,1110,border,border w/ glare+moire,planned
+set0315,0110,1110,border,border w/ glare+moire,planned
+set0316,0110,1110,border,border w/ glare+moire,planned
+set0317,0110,1110,border,border w/ glare+moire,planned
+set0318,0110,1110,border,border w/ glare+moire,planned
+set0319,0110,1110,border,border w/ glare+moire,planned
+set0320,0110,1110,border,border w/ glare+moire,planned
+set0321,0000,0100,glare,pure glare toggle,planned
+set0322,0000,0100,glare,pure glare toggle,planned
+set0323,0000,0100,glare,pure glare toggle,planned
+set0324,0000,0100,glare,pure glare toggle,planned
+set0325,0000,0100,glare,pure glare toggle,planned
+set0326,0000,0100,glare,pure glare toggle,planned
+set0327,0000,0100,glare,pure glare toggle,planned
+set0328,0000,0100,glare,pure glare toggle,planned
+set0329,1000,1100,glare,glare w/ border background,planned
+set0330,1000,1100,glare,glare w/ border background,planned
+set0331,1000,1100,glare,glare w/ border background,planned
+set0332,1000,1100,glare,glare w/ border background,planned
+set0333,1000,1100,glare,glare w/ border background,planned
+set0334,1000,1100,glare,glare w/ border background,planned
+set0335,1000,1100,glare,glare w/ border background,planned
+set0336,1000,1100,glare,glare w/ border background,planned
+set0337,0010,0110,glare,glare w/ moire background,planned
+set0338,0010,0110,glare,glare w/ moire background,planned
+set0339,0010,0110,glare,glare w/ moire background,planned
+set0340,0010,0110,glare,glare w/ moire background,planned
+set0341,0010,0110,glare,glare w/ moire background,planned
+set0342,0010,0110,glare,glare w/ moire background,planned
+set0343,0010,0110,glare,glare w/ moire background,planned
+set0344,0001,0101,glare,glare w/ buttons background,planned
+set0345,0001,0101,glare,glare w/ buttons background,planned
+set0346,0001,0101,glare,glare w/ buttons background,planned
+set0347,0001,0101,glare,glare w/ buttons background,planned
+set0348,0001,0101,glare,glare w/ buttons background,planned
+set0349,0001,0101,glare,glare w/ buttons background,planned
+set0350,0001,0101,glare,glare w/ buttons background,planned
+set0351,1010,1110,glare,glare w/ border+moire,planned
+set0352,1010,1110,glare,glare w/ border+moire,planned
+set0353,1010,1110,glare,glare w/ border+moire,planned
+set0354,1010,1110,glare,glare w/ border+moire,planned
+set0355,1010,1110,glare,glare w/ border+moire,planned
+set0356,1010,1110,glare,glare w/ border+moire,planned
+set0357,1010,1110,glare,glare w/ border+moire,planned
+set0358,1010,1110,glare,glare w/ border+moire,planned
+set0359,1001,1101,glare,glare w/ border+buttons,planned
+set0360,1001,1101,glare,glare w/ border+buttons,planned
+set0361,1001,1101,glare,glare w/ border+buttons,planned
+set0362,1001,1101,glare,glare w/ border+buttons,planned
+set0363,1001,1101,glare,glare w/ border+buttons,planned
+set0364,1001,1101,glare,glare w/ border+buttons,planned
+set0365,1001,1101,glare,glare w/ border+buttons,planned
+set0366,0011,0111,glare,glare w/ moire+buttons,planned
+set0367,0011,0111,glare,glare w/ moire+buttons,planned
+set0368,0011,0111,glare,glare w/ moire+buttons,planned
+set0369,0011,0111,glare,glare w/ moire+buttons,planned
+set0370,0011,0111,glare,glare w/ moire+buttons,planned
+set0371,0011,0111,glare,glare w/ moire+buttons,planned
+set0372,0011,0111,glare,glare w/ moire+buttons,planned
+set0373,1011,1111,glare,glare w/ border+moire+buttons,planned
+set0374,1011,1111,glare,glare w/ border+moire+buttons,planned
+set0375,1011,1111,glare,glare w/ border+moire+buttons,planned
+set0376,1011,1111,glare,glare w/ border+moire+buttons,planned
+set0377,1011,1111,glare,glare w/ border+moire+buttons,planned
+set0378,1011,1111,glare,glare w/ border+moire+buttons,planned
+set0379,1011,1111,glare,glare w/ border+moire+buttons,planned
+set0380,1011,1111,glare,glare w/ border+moire+buttons,planned
+set0381,0000,0010,moire,pure moire toggle,planned
+set0382,0000,0010,moire,pure moire toggle,planned
+set0383,0000,0010,moire,pure moire toggle,planned
+set0384,0000,0010,moire,pure moire toggle,planned
+set0385,0000,0010,moire,pure moire toggle,planned
+set0386,0000,0010,moire,pure moire toggle,planned
+set0387,0000,0010,moire,pure moire toggle,planned
+set0388,0000,0010,moire,pure moire toggle,planned
+set0389,0000,0010,moire,pure moire toggle,planned
+set0390,1000,1010,moire,moire w/ border background,planned
+set0391,1000,1010,moire,moire w/ border background,planned
+set0392,1000,1010,moire,moire w/ border background,planned
+set0393,1000,1010,moire,moire w/ border background,planned
+set0394,1000,1010,moire,moire w/ border background,planned
+set0395,1000,1010,moire,moire w/ border background,planned
+set0396,1000,1010,moire,moire w/ border background,planned
+set0397,1000,1010,moire,moire w/ border background,planned
+set0398,1000,1010,moire,moire w/ border background,planned
+set0399,0100,0110,moire,moire w/ glare background,planned
+set0400,0100,0110,moire,moire w/ glare background,planned
+set0401,0100,0110,moire,moire w/ glare background,planned
+set0402,0100,0110,moire,moire w/ glare background,planned
+set0403,0100,0110,moire,moire w/ glare background,planned
+set0404,0100,0110,moire,moire w/ glare background,planned
+set0405,0100,0110,moire,moire w/ glare background,planned
+set0406,0100,0110,moire,moire w/ glare background,planned
+set0407,0001,0011,moire,moire w/ buttons background,planned
+set0408,0001,0011,moire,moire w/ buttons background,planned
+set0409,0001,0011,moire,moire w/ buttons background,planned
+set0410,0001,0011,moire,moire w/ buttons background,planned
+set0411,0001,0011,moire,moire w/ buttons background,planned
+set0412,0001,0011,moire,moire w/ buttons background,planned
+set0413,0001,0011,moire,moire w/ buttons background,planned
+set0414,0001,0011,moire,moire w/ buttons background,planned
+set0415,1100,1110,moire,moire w/ border+glare,planned
+set0416,1100,1110,moire,moire w/ border+glare,planned
+set0417,1100,1110,moire,moire w/ border+glare,planned
+set0418,1100,1110,moire,moire w/ border+glare,planned
+set0419,1100,1110,moire,moire w/ border+glare,planned
+set0420,1100,1110,moire,moire w/ border+glare,planned
+set0421,1100,1110,moire,moire w/ border+glare,planned
+set0422,1001,1011,moire,moire w/ border+buttons,planned
+set0423,1001,1011,moire,moire w/ border+buttons,planned
+set0424,1001,1011,moire,moire w/ border+buttons,planned
+set0425,1001,1011,moire,moire w/ border+buttons,planned
+set0426,1001,1011,moire,moire w/ border+buttons,planned
+set0427,1001,1011,moire,moire w/ border+buttons,planned
+set0428,1001,1011,moire,moire w/ border+buttons,planned
+set0429,0101,0111,moire,moire w/ glare+buttons,planned
+set0430,0101,0111,moire,moire w/ glare+buttons,planned
+set0431,0101,0111,moire,moire w/ glare+buttons,planned
+set0432,0101,0111,moire,moire w/ glare+buttons,planned
+set0433,0101,0111,moire,moire w/ glare+buttons,planned
+set0434,0101,0111,moire,moire w/ glare+buttons,planned
+set0435,1101,1111,moire,moire w/ border+glare+buttons,planned
+set0436,1101,1111,moire,moire w/ border+glare+buttons,planned
+set0437,1101,1111,moire,moire w/ border+glare+buttons,planned
+set0438,1101,1111,moire,moire w/ border+glare+buttons,planned
+set0439,1101,1111,moire,moire w/ border+glare+buttons,planned
+set0440,1101,1111,moire,moire w/ border+glare+buttons,planned
+set0441,0000,0001,buttons,pure button toggle,planned
+set0442,0000,0001,buttons,pure button toggle,planned
+set0443,0000,0001,buttons,pure button toggle,planned
+set0444,0000,0001,buttons,pure button toggle,planned
+set0445,0000,0001,buttons,pure button toggle,planned
+set0446,0000,0001,buttons,pure button toggle,planned
+set0447,0000,0001,buttons,pure button toggle,planned
+set0448,0000,0001,buttons,pure button toggle,planned
+set0449,1000,1001,buttons,buttons w/ border background,planned
+set0450,1000,1001,buttons,buttons w/ border background,planned
+set0451,1000,1001,buttons,buttons w/ border background,planned
+set0452,1000,1001,buttons,buttons w/ border background,planned
+set0453,1000,1001,buttons,buttons w/ border background,planned
+set0454,1000,1001,buttons,buttons w/ border background,planned
+set0455,1000,1001,buttons,buttons w/ border background,planned
+set0456,1000,1001,buttons,buttons w/ border background,planned
+set0457,0100,0101,buttons,buttons w/ glare background,planned
+set0458,0100,0101,buttons,buttons w/ glare background,planned
+set0459,0100,0101,buttons,buttons w/ glare background,planned
+set0460,0100,0101,buttons,buttons w/ glare background,planned
+set0461,0100,0101,buttons,buttons w/ glare background,planned
+set0462,0100,0101,buttons,buttons w/ glare background,planned
+set0463,0100,0101,buttons,buttons w/ glare background,planned
+set0464,0100,0101,buttons,buttons w/ glare background,planned
+set0465,0010,0011,buttons,buttons w/ moire background,planned
+set0466,0010,0011,buttons,buttons w/ moire background,planned
+set0467,0010,0011,buttons,buttons w/ moire background,planned
+set0468,0010,0011,buttons,buttons w/ moire background,planned
+set0469,0010,0011,buttons,buttons w/ moire background,planned
+set0470,0010,0011,buttons,buttons w/ moire background,planned
+set0471,0010,0011,buttons,buttons w/ moire background,planned
+set0472,0010,0011,buttons,buttons w/ moire background,planned
+set0473,1100,1101,buttons,buttons w/ border+glare,planned
+set0474,1100,1101,buttons,buttons w/ border+glare,planned
+set0475,1100,1101,buttons,buttons w/ border+glare,planned
+set0476,1100,1101,buttons,buttons w/ border+glare,planned
+set0477,1100,1101,buttons,buttons w/ border+glare,planned
+set0478,1100,1101,buttons,buttons w/ border+glare,planned
+set0479,1100,1101,buttons,buttons w/ border+glare,planned
+set0480,1010,1011,buttons,buttons w/ border+moire,planned
+set0481,1010,1011,buttons,buttons w/ border+moire,planned
+set0482,1010,1011,buttons,buttons w/ border+moire,planned
+set0483,1010,1011,buttons,buttons w/ border+moire,planned
+set0484,1010,1011,buttons,buttons w/ border+moire,planned
+set0485,1010,1011,buttons,buttons w/ border+moire,planned
+set0486,1010,1011,buttons,buttons w/ border+moire,planned
+set0487,0110,0111,buttons,buttons w/ glare+moire,planned
+set0488,0110,0111,buttons,buttons w/ glare+moire,planned
+set0489,0110,0111,buttons,buttons w/ glare+moire,planned
+set0490,0110,0111,buttons,buttons w/ glare+moire,planned
+set0491,0110,0111,buttons,buttons w/ glare+moire,planned
+set0492,0110,0111,buttons,buttons w/ glare+moire,planned
+set0493,0110,0111,buttons,buttons w/ glare+moire,planned
+set0494,1110,1111,buttons,buttons w/ border+glare+moire,planned
+set0495,1110,1111,buttons,buttons w/ border+glare+moire,planned
+set0496,1110,1111,buttons,buttons w/ border+glare+moire,planned
+set0497,1110,1111,buttons,buttons w/ border+glare+moire,planned
+set0498,1110,1111,buttons,buttons w/ border+glare+moire,planned
+set0499,1110,1111,buttons,buttons w/ border+glare+moire,planned
+set0500,1110,1111,buttons,buttons w/ border+glare+moire,planned

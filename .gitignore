@@ -1,0 +1,33 @@
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Python bytecode/cache
+__pycache__/
+*.py[cod]
+*.so
+
+# OS junk
+.DS_Store
+
+# Tooling metadata
+.claude/
+.idea/
+.vscode/
+
+# Training/data artifacts and outputs
+checkpoints/
+logs/
+results/
+external/
+image/train/
+image/test/
+image/raw*/
+image/recap*/
+*.pth
+*.pt
+*.onnx
+*.ckpt
+*.log
