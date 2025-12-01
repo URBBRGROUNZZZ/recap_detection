@@ -76,7 +76,6 @@ python script/inference_unified.py --mode single --model vit_large --image test.
 
 # 文件夹批量分类
 python script/inference_unified.py --mode folder --model vit_base --folder image/raw --output results/
-
 # 计算混淆矩阵（标准模型）
 python script/inference_unified.py --mode confusion --model vit_large --raw_folder image/raw/ --recap_folder image/recap/ --save_errors
 
@@ -478,3 +477,7 @@ print(f"类别: {result['class']}, 置信度: {result['confidence']:.4f}")
 ---
 
 🎉 **开始体验专业的手机翻拍检测系统！** 
+=======
+# recap_detection
+recap_detection
+>>>>>>> origin/main
